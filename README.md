@@ -13,10 +13,10 @@
 
 
 <div align="left"> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ebasatemesgen/github-readme-stats">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ebasatemesgen&count_private=true&show_icons=true&hide=issues,contribs&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&&theme=default&hide_rank=true" alt="Ebasa's Github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ebasatemesgen/github-readme-stats">
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebasatemesgen&layout=compact&langs_count=4&exclude_repo=segway-locomotion-stm32,gatech-computer-vision,ME336-Yellow-Team-Project,silvery-botlab-f22&hide_border=false&role=owner,collaborator&theme=default" alt="Ebasa's Language stats" />
 </a>
 </div>
