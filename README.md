@@ -20,8 +20,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebasatemesgen&layout=compact&langs_count=4&exclude_repo=segway-locomotion-stm32,gatech-computer-vision,ME336-Yellow-Team-Project,silvery-botlab-f22&hide_border=false&role=owner,collaborator&theme=default" alt="Ebasa's Language stats" />
 </a>
-
-
-
-</a>
 </div>
